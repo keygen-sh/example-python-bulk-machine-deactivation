@@ -29,8 +29,6 @@ Next, install dependencies with [`pip`](https://packaging.python.org/):
 python3 -m pip install -r requirements.txt
 ```
 
-## Validating a license key
-
 To perform a bulk deactivation, run the script:
 
 ```
